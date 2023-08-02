@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Aashutosh',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://nextjs-notion-starter-p5qgjv9nm-coderaashutosh.vercel.app/',
   author: 'Aashutosh Bansal',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Blogs',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'AashutoshBansa7',
+  github: 'coderAashutosh',
+  linkedin: 'aashutosh-bansal',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
